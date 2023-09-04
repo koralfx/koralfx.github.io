@@ -31,4 +31,4 @@ in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 [Link MD do about](/pages/o-mnie)
 
-[o-mnie](pages/o-mnie.md)
+[o-mnie](/pages/o-mnie.md)
