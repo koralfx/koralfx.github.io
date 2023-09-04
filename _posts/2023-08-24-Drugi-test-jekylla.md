@@ -6,7 +6,6 @@ layout: post
 tags:
   - blog
   - recenzja
-excerpt_separator: <!--more-->
 ---
 
 ## Lorem ipsum dolor sit amet,
