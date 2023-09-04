@@ -2,7 +2,6 @@
 title: O mnie
 share: true
 published: true
-layout: page
 permalink: /tomek/
 ---
 
