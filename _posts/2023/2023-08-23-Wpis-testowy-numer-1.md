@@ -31,3 +31,6 @@ in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 - [ ] sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 [MD link o mnie](/pages/o-mnie)
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/37i9dQZEVXcHcRRGSfCjhY?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
