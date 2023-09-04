@@ -20,5 +20,3 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 ![2023-08-24_listek.png](../../images/2023-08-24_listek.png)
 
 [Link Wiki do about](o-mnie.md)
-
-[Link MD do about](o-mnie.md#)
