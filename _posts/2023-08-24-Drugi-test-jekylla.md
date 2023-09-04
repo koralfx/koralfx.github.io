@@ -1,5 +1,5 @@
 ---
-title: Drugi test jekylla
+title: Drugi test jekylla!!
 share: true
 published: true
 layout: post
@@ -8,6 +8,7 @@ tags:
   - recenzja
 excerpt_separator: <!--more-->
 ---
+
 ## Lorem ipsum dolor sit amet,
 
 onsectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  
