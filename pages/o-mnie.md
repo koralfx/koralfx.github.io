@@ -2,7 +2,7 @@
 title: O mnie
 share: true
 published: true
-permalink: /pages/tomek/
+permalink: /pages/o-mnie/
 ---
 
 ## Trochę o sobie
