@@ -8,8 +8,6 @@ tags:
   - recenzja
 excerpt_separator: <!--more-->
 ---
-# Drugi test jekylla
-
 ## Lorem ipsum dolor sit amet,
 
 onsectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  
