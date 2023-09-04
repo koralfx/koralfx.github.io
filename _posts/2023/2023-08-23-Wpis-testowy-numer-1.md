@@ -29,6 +29,6 @@ in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 - [x] Excepteur sint occaecat cupidatat non proident,
 - [ ] sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-[Link MD do about](/pages/o-mnie)
+
 
 [o-mnie](/pages/o-mnie.md)
