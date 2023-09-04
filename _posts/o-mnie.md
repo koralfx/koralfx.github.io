@@ -3,7 +3,7 @@ title: O mnie
 share: true
 published: true
 layout: page
-permalink: /about/
+permalink: /tomek/
 ---
 
 ## Trochę o sobie
